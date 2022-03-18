@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MiguelSequera
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Web desing
-- 💞️ I’m looking to collaborate on nothign for now
+- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me on msequera197@gmail.com @migue_sequera (instagram), @miguelacho27_11 (Twitter)
 
 <!---
